@@ -86,6 +86,10 @@ You can customize various aspects of the dialog by passing different parameters.
 | **`isFlip`**                 | Enables a 3D flip animation when the dialog is shown.            | `false`                               |
 | **`dismissible`**            | Controls whether the dialog can be dismissed by tapping outside. | `true`                                |
 
+## Licence
+
+This project is licensed under the MIT License. You can view the full license in the [LICENSE](LICENSE) file.
+
 ## Support the Library
 
 You can support the library by:
