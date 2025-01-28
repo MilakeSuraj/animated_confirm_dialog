@@ -11,7 +11,7 @@ A customizable Flutter package for displaying confirmation dialogs with optional
 
 ## Demo Video
 
-![Demo Video](<https://github.com/MilakeSuraj/animated_confirm_dialog/blob/master/Screen%20Recording%202025-01-27%20170706%20(1).gif>)
+![Demo Video](<https://raw.githubusercontent.com/MilakeSuraj/animated_confirm_dialog/master/Screen%20Recording%202025-01-27%20170706%20(1).gif>)
 
 ## Getting Started
 
