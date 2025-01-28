@@ -1,0 +1,80 @@
+name: animated_confirm_dialog
+description: A Flutter package for customizable confirmation dialogs with optional 3D flip animations and modern UI.
+version: 1.0.0
+homepage: https://github.com/MilakeSuraj/animated_confirm_dialog
+issue_tracker: https://github.com/MilakeSuraj/animated_confirm_dialog/issues
+license: MIT
+
+environment:
+  sdk: ">=3.1.3 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+keywords:
+  - flutter
+  - dialog
+  - confirmation-dialog
+  - animations
+  - ui
+  - logout-button
+  - button
+  - confirmation-button
+  - animated-button
+  - confirmation-popup
+  - animated-popup
+  - custom-dialog
+  - flutter-dialog
+  - flutter-confirmation-dialog
+  - pop-up-dialog
+  - interactive-dialog
+  - modern-ui
+  - 3d-animation
+  - flip-animation
+  - flutter-animations
+  - custom-animations
+  - reusable-dialog
+  - animated-confirmation
+  - confirmation-box
+  - flutter-popup
+
+tags:
+  - animation
+  - dialog
+  - UI
+  - flutter
+  - confirmation-dialog
+  - 3d-animation
+  - flip-animation
+  - custom-dialog
+  - popup
+  - confirmation-popup
+  - modern-ui
+  - interactive-dialog
+  - reusable-dialog
+  - flutter-animations
+  - flutter-popup
+  - button
+  - ui-kit
+  - animated-popup
+  - animated-dialog
+  - flutter-dialog
+  - flutter-confirmation-dialog
+  - custom-animations
+  - ui-components
+  - modern-dialog
+  - custom-popup
+  - flutter-button
+
+# Optional field to specify the publishing destination
+publish_to: "https://pub.dev"
