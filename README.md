@@ -1,5 +1,7 @@
 # animated_confirm_dialog
 
+![Banner](https://raw.githubusercontent.com/MilakeSuraj/animated_confirm_dialog/master/ScreenShots/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
+
 A customizable Flutter package for displaying confirmation dialogs with optional 3D flip animations and modern UI. This package allows you to easily show stylish confirmation dialogs with a clean and modern design, making it highly customizable.
 
 ## Features
@@ -11,7 +13,7 @@ A customizable Flutter package for displaying confirmation dialogs with optional
 
 ## Demo Video
 
-![Demo Video](<https://raw.githubusercontent.com/MilakeSuraj/animated_confirm_dialog/master/Screen%20Recording%202025-01-27%20170706%20(1).gif>)
+![Demo Video](<https://raw.githubusercontent.com/MilakeSuraj/animated_confirm_dialog/master/ScreenShots/Screen%20Recording%202025-01-27%20170706%20(1).gif>)
 
 ## Getting Started
 
