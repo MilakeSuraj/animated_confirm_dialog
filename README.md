@@ -33,7 +33,7 @@ Before starting, ensure that you have the following installed:
 
 ```yaml
 dependencies:
-  animated_confirm_dialog: ^1.0.0
+  animated_confirm_dialog: ^1.0.1
 ```
 
 ### Usage

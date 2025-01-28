@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 - Work in progress features or updates.
 
-## [1.0.0] - 2025-01-28
+## [1.0.1] - 2025-01-28
 
 ### Added
 

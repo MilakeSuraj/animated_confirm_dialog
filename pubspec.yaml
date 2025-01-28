@@ -1,6 +1,6 @@
 name: animated_confirm_dialog
 description: A Flutter package for customizable confirmation dialogs with optional 3D flip animations and modern UI.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/MilakeSuraj/animated_confirm_dialog
 issue_tracker: https://github.com/MilakeSuraj/animated_confirm_dialog/issues
 license: MIT
