@@ -76,5 +76,4 @@ tags:
   - custom-popup
   - flutter-button
 
-# Optional field to specify the publishing destination
-publish_to: "https://pub.dev"
+publish_to: https://pub.dev
