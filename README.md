@@ -11,9 +11,13 @@ A customizable Flutter package for displaying confirmation dialogs with optional
 - **Modern UI**: A visually appealing, modern design with customizable button styles and colors.
 - **Dismissable**: Optionally control if the dialog can be dismissed by tapping outside.
 
+![Demo Video 2](https://raw.githubusercontent.com/MilakeSuraj/animated_confirm_dialog/master/ScreenShots/Your%20paragraph%20text.gif)
+
+###
+
 ## Demo Video
 
-![Demo Video](<https://raw.githubusercontent.com/MilakeSuraj/animated_confirm_dialog/master/ScreenShots/Screen%20Recording%202025-01-27%20170706%20(1).gif>)
+![Demo Video 1](https://raw.githubusercontent.com/MilakeSuraj/animated_confirm_dialog/master/ScreenShots/sURAJ_MILAKE.gif)
 
 ## Getting Started
 
@@ -33,7 +37,7 @@ Before starting, ensure that you have the following installed:
 
 ```yaml
 dependencies:
-  animated_confirm_dialog: ^1.0.1
+  animated_confirm_dialog: ^1.0.2
 ```
 
 ### Usage
@@ -99,7 +103,3 @@ You can support the library by:
 - Liking it on [pub.dev](https://pub.dev/packages/animated_confirm_dialog)
 - Starring it on [GitHub](https://github.com/MilakeSuraj/animated_confirm_dialog)
 - Reporting any bugs you encounter on [GitHub Issues](https://github.com/MilakeSuraj/animated_confirm_dialog/issues)
-
-```
-
-```

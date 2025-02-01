@@ -2,9 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [1.0.2] - 2025-02-01
 
-- Work in progress features or updates.
+### Changed
+
+- Updated the README file with new demo videos and usage instructions.
+- Improved the design and explanation of the customization options for the confirmation dialog.
+- Added a new demo GIF for visual representation.
 
 ## [1.0.1] - 2025-01-28
 

@@ -1,8 +1,9 @@
 name: animated_confirm_dialog
 description: A Flutter package for customizable confirmation dialogs with optional 3D flip animations and modern UI.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/MilakeSuraj/animated_confirm_dialog
 issue_tracker: https://github.com/MilakeSuraj/animated_confirm_dialog/issues
+repository: https://github.com/MilakeSuraj/animated_confirm_dialog
 license: MIT
 
 environment:
@@ -47,6 +48,16 @@ keywords:
   - animated-confirmation
   - confirmation-box
   - flutter-popup
+  - animated
+  - animated
+  - confirm
+  - confirm dialog
+  - animated dialog
+  - animated confirm dialog
+  - flutter confirm dialog
+  - quickalert
+  - flutter quickalert
+  - flutter quick alert
 
 tags:
   - animation
@@ -75,3 +86,13 @@ tags:
   - modern-dialog
   - custom-popup
   - flutter-button
+    - animated
+  - animated
+  - confirm
+  - confirm dialog
+  - animated dialog
+  - animated confirm dialog
+  - flutter confirm dialog
+  - quickalert
+  - flutter quickalert
+  - flutter quick alert
